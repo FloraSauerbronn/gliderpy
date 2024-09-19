@@ -12,6 +12,6 @@ __all__ = [
     "GliderDataFetcher",
     "plot_track",
     "plot_transect",
-    "plot_ctd",
     "plot_ts",
+    "plot_cast",
 ]
